@@ -1,0 +1,60 @@
+{
+  "apiVersion": "0.3.0",
+  "data": {
+    "info": {
+      "date": "2023-10-03",
+      "type": "INDEX",
+      "exchange": "TWSE",
+      "market": "TSE",
+      "symbolId": "IX0001",
+      "countryCode": "TW",
+      "timeZone": "Asia/Taipei",
+      "lastUpdatedAt": "2023-10-03T13:30:00.000+08:00"
+    },
+    "quote": {
+      "isClosed": true,
+      "priceHigh": {
+        "price": 16571.66,
+        "at": "2023-10-03T09:25:05.000+08:00"
+      },
+      "priceLow": {
+        "price": 16453.8,
+        "at": "2023-10-03T13:07:40.000+08:00"
+      },
+      "priceOpen": {
+        "price": 16520.24,
+        "at": "2023-10-03T09:00:05.000+08:00"
+      },
+      "trade": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "price": 16454.34,
+        "serial": 545420
+      },
+      "last": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "transaction": 58603,
+        "tradeValue": 15732586660,
+        "tradeVolume": 212936,
+        "bidOrders": 5256,
+        "askOrders": 4465,
+        "bidVolume": -38794,
+        "askVolume": -4109,
+        "serial": 545420
+      },
+      "total": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "transaction": 1594280,
+        "tradeValue": 255715961640,
+        "tradeVolume": 5821289,
+        "bidOrders": 10028238,
+        "askOrders": 12367526,
+        "bidVolume": 18224781,
+        "askVolume": 9840885,
+        "serial": 545420
+      },
+      "change": -102.97,
+      "changePercent": -0.62,
+      "amplitude": 0.71
+    }
+  }
+}

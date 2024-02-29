@@ -1,0 +1,119 @@
+{
+  "apiVersion": "0.3.0",
+  "data": {
+    "info": {
+      "date": "2023-10-03",
+      "type": "EQUITY",
+      "exchange": "TWSE",
+      "market": "TSE",
+      "symbolId": "2330",
+      "countryCode": "TW",
+      "timeZone": "Asia/Taipei",
+      "lastUpdatedAt": "2023-10-03T13:30:00.000+08:00"
+    },
+    "quote": {
+      "isTrial": false,
+      "isDealt": true,
+      "isOpenDelayed": false,
+      "isCloseDelayed": false,
+      "isHalting": false,
+      "isClosed": true,
+      "total": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "transaction": 3059,
+        "tradeValue": 7654032000,
+        "tradeVolume": 14432,
+        "tradeVolumeAtBid": 4723,
+        "tradeVolumeAtAsk": 8285,
+        "serial": 6721671
+      },
+      "trial": {
+        "at": "2023-10-03T13:29:55.464+08:00",
+        "bid": 528,
+        "ask": 529,
+        "price": 528,
+        "volume": 1661,
+        "serial": 6720950
+      },
+      "trade": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "bid": 528,
+        "ask": 529,
+        "price": 529,
+        "volume": 1896,
+        "serial": 6721671
+      },
+      "order": {
+        "at": "2023-10-03T13:30:00.000+08:00",
+        "bids": [
+          {
+            "price": 529,
+            "volume": 26
+          },
+          {
+            "price": 528,
+            "volume": 618
+          },
+          {
+            "price": 527,
+            "volume": 799
+          },
+          {
+            "price": 526,
+            "volume": 362
+          },
+          {
+            "price": 525,
+            "volume": 442
+          }
+        ],
+        "asks": [
+          {
+            "price": 530,
+            "volume": 49
+          },
+          {
+            "price": 531,
+            "volume": 367
+          },
+          {
+            "price": 532,
+            "volume": 626
+          },
+          {
+            "price": 533,
+            "volume": 266
+          },
+          {
+            "price": 534,
+            "volume": 200
+          }
+        ]
+      },
+      "priceHigh": {
+        "price": 533,
+        "at": "2023-10-03T09:07:03.815+08:00"
+      },
+      "priceLow": {
+        "price": 528,
+        "at": "2023-10-03T09:00:04.511+08:00"
+      },
+      "priceOpen": {
+        "price": 528,
+        "at": "2023-10-03T09:00:04.511+08:00"
+      },
+      "priceAvg": {
+        "price": 530.35,
+        "at": "2023-10-03T13:30:00.000+08:00"
+      },
+      "sbl": {
+        "at": "2023-10-03T16:43:40.036+08:00",
+        "availableVolume": 6768642
+      },
+      "change": -4,
+      "changePercent": -0.75,
+      "amplitude": 0.94,
+      "priceLimit": 0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "apiVersion": "0.3.0",
+  "data": {
+    "info": {
+      "date": "2023-10-03",
+      "type": "INDEX",
+      "exchange": "TWSE",
+      "market": "TSE",
+      "symbolId": "IX0001",
+      "countryCode": "TW",
+      "timeZone": "Asia/Taipei",
+      "lastUpdatedAt": "2023-10-03T07:31:35.902+08:00"
+    },
+    "meta": {
+      "nameZhTw": "發行量加權股價指數",
+      "priceReference": 16557.31,
+      "typeZhTw": "一般指數"
+    }
+  }
+}
